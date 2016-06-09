@@ -1,0 +1,1 @@
+0712.0096	stat.ME	Auxiliary Information and A Priori Values in Construction of Improved Estimators	This volume is a collection of six papers on the use of auxiliary information and 'a priori ' values in construction of improved estimators . The work included here will be of immense application for researchers and students who emply auxiliary information in any form .

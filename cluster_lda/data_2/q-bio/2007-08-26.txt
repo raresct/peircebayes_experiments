@@ -1,0 +1,1 @@
+0708.3502	q-bio.PE	Child mortality in Penna ageing model	Assuming the deleterious mutations in the Penna ageing model to affect mainly the young ages , we get an enhanced mortality at very young age , followed by a minimum of the mortality , and then the usual exponential increase of mortality with age .
