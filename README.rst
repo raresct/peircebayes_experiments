@@ -37,6 +37,7 @@
 
 .. code-block:: sh
 
+    cd cluster_lda
     mv data_2 data
     python2 data_gen.py
     python2 run_experiment.py
